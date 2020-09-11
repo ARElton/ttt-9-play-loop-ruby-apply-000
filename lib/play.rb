@@ -39,4 +39,6 @@ end
 
 
 def play(board)
-  
+  turn = 0
+  until 
+end
